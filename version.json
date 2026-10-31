@@ -3,5 +3,5 @@
     "url": "https://github.com/cmcgavigan/trans-man-updates/releases/latest",
     "notes": "Translations now appear as they're written instead of after the whole text, and long documents translate several parts at once. Redesigned popup: original and translation side by side for long text, language chips to change From/To, bigger type. New: EU contract terminology (IATE) for construction, contracts, procurement and H&S terms in EN/FR/IT/DE (tray > EU contract terminology). Faster start: the connection opens on the first Ctrl+C. Closing the popup stops a translation in progress.",
     "exe_url": "https://github.com/cmcgavigan/trans-man-updates/releases/download/v0.3.0/TransMan.exe",
-    "sha256": ""
+    "sha256": "e44d516f2522a683d7afab7603d052ce006e078d5efa0839a582b630e4ba5886"
 }
