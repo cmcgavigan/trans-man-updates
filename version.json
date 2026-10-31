@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/cmcgavigan/trans-man-updates/releases/latest",
-  "notes": ""
+    "version":  "0.2.2",
+    "url":  "https://github.com/cmcgavigan/trans-man-updates/releases/latest",
+    "notes":  "Full sentences translated by Claude AI with your own glossary built from your documents, a From: override, mixed-language text translated in full, and a proper installer. Fixes secure connections on freshly installed Windows."
 }
